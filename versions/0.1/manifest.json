@@ -1,0 +1,18 @@
+{
+    "name": "MoreCompany",
+    "version_number": "1.7.4",
+    "website_url": "",
+    "description": "A stable lobby player count expansion mod. With cosmetics!",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+    ]
+},
+{
+	"name": "Skinwalkers",
+	"version_number": "4.0.2",
+	"website_url": "https://rugbug.net/skinwalkers",
+	"description": "The monsters have learned how to mimic the voices of your friends.",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
