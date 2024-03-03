@@ -1,0 +1,126 @@
+{
+    "name": "MoreCompany",
+    "version_number": "1.7.4",
+    "website_url": "",
+    "description": "A stable lobby player count expansion mod. With cosmetics!",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+    ]
+},
+{
+	"name": "Skinwalkers",
+	"version_number": "4.0.2",
+	"website_url": "https://rugbug.net/skinwalkers",
+	"description": "The monsters have learned how to mimic the voices of your friends.",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+},
+{
+    "name": "SellMyScrap",
+    "version_number": "1.3.6",
+    "website_url": "https://github.com/ZehsTeam/Lethal-Company-SellMyScrap",
+    "description": "Adds a few terminal commands to sell your scrap from the ship. Highly Configurable. SellFromTerminal +",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+},
+{
+    "name": "SellTracker",
+    "version_number": "1.2.1",
+    "website_url": "",
+    "description": "Displays your quota and the calculated value of the scrap you are currently selling on a new screen at the company building. (Now with configurable colors)",
+    "dependencies": []
+},
+{
+  "namespace": "2018",
+  "name": "LC_API",
+  "description": "Multipurpose modding API for Lethal Company",
+  "version_number": "3.4.5",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/steven4547466/LC-API",
+  "FullName": "2018-LC_API"
+},
+{
+    "name": "TooManyEmotes",
+    "version_number": "1.9.5",
+    "website_url": "https://github.com/cmooref17/Lethal-Company-TooManyEmotes",
+    "description": "Adds over 200 new emotes! Emote wheel included! Allows Masked Enemies to emote, Implements a system for purchasing them on the store (optional), and much more!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+},
+{
+    "name": "ReservedItemSlotCore",
+    "version_number": "1.8.17",
+    "website_url": "",
+    "description": "The core mod for all ReservedItemSlot mods. Adds functionality for all ReservedItemSlot mods.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+},
+{
+    "name": "ReservedWalkieSlot",
+    "version_number": "1.6.2",
+    "website_url": "",
+    "description": "Gives a free, dedicated Walkie slot on the right side of your screen. You can press [X] to activate and speak into the Walkie at anytime.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "FlipMods-ReservedItemSlotCore-1.8.9"
+    ]
+},
+{
+  "name": "ShipLoot",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/tinyhoot/ShipLoot",
+  "description": "Reliably shows the total value of all scrap in your ship.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+},
+{
+  "name": "Helmet_Cameras",
+  "version_number": "2.1.5",
+  "website_url": "https://github.com/The0therOne/Helmet_Cameras",
+  "description": "For monitoring first person cameras on player's helmets. For best \"Camera Man\" experience.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+},
+{
+  "name": "AdditionalContentFramework",
+  "version_number": "1.0.3",
+  "website_url": "https://twitter.com/AlexCodesGames",
+  "description": "Acts as a module loader for other mods, allowing you to easily add your own custom items to Lethal Company!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+},
+{
+  "name": "AdditionalSuits",
+  "version_number": "2.0.0",
+  "website_url": "https://twitter.com/AlexCodesGames",
+  "description": "Adds 8 more standard suits to your initial closet at the start of the game! Great for organizing larger crews! Follow my socials in the desc to stay in the loop for updates and new mods for Lethal Company! (source code is also in desc <3)",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "AlexCodesGames-AdditionalContentFramework-1.0.2"
+  ]
+},
+{
+  "name": "MaskedEnemyOverhaul",
+  "version_number": "3.1.2",
+  "website_url": "https://github.com/HomelessGinger/MaskedEnemyOverhaul",
+  "description": "Removes the mask from the mimic enemy, wears a suit of a random player (even modded ones), allows spawning on all moons without needing the mask items, and a zombie apocalypse? ",
+  "dependencies": []
+},
+{
+"name": "SellMyScrap",
+    "version_number": "1.3.6",
+    "website_url": "https://github.com/ZehsTeam/Lethal-Company-SellMyScrap",
+    "description": "Adds a few terminal commands to sell your scrap from the ship. Highly Configurable. SellFromTerminal +",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
