@@ -3,10 +3,11 @@ This is a collection of plugins for lethal company. Credit should be given to th
 
 ## SETUP
 
-1. Pull the project down and place the contents of the "base" directory in your lethal company root folder.
-2. Start the game (Validate that Lethal Company More) has initilized.
-3. Go to the selected version and place the content in the root directory (replace files if needed).
-4. Enjoy!
+1. Pull the project
+2. Make sure to have a fresh install of "Lethal Company"
+3. Put the whole 'base' in the root folder of Lethal Company folder.
+4. Put the utils plugins in the root folder of Lethal Company.
+5. Put the wanted version in the root folder of Lethal Company, enjoy!
 
 ## Keybindings
 
@@ -17,3 +18,7 @@ This is a collection of plugins for lethal company. Credit should be given to th
 Left-Alt - Open Walkie-talkie slot
 X - Talk in walkie-talkie
 
+# Versions
+
+## Utils 0.1
+Necessary plugins with not to much addons to the base of the game
